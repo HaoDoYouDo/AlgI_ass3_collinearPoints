@@ -108,6 +108,6 @@ public class FastCollinearPoints {
 	q[N - 1] = ex;
 	int result =  q[--N];
 	StdOut.println(result);
-	
+	StdOut.println("Am I here???");
 	}//unit test
 }
